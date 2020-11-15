@@ -15,7 +15,9 @@ p, li {
 }
 
 html {
-  background-color: #FA00DF;
+  background-image: url("https://i.imgur.com/BHPUd0d.jpg");
+  text-align: center;
+  background-color: #cccccc;
 }
 
 body {
