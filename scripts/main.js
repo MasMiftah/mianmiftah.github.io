@@ -9,7 +9,7 @@ myImage.onclick = function() {
   }
 }
 
-let myButton = document.querySelector('button');
+let myButton = document.querySelector('button2');
 let myHeading = document.querySelector('h1');
 
 function setUsersName() {
@@ -18,7 +18,7 @@ function setUsersName() {
     setUserName();
   } else { 
     localStorage.setItem('name', myName);
-    myheading.textContent = 'Hey, ' + myName + ', Click the question mark to see the most popular destination our users have selected!';
+    myHeading.innerHTML = 'Hey, ' + myName + ', Click the question mark to see the most popular destination our users have selected!';
   }
 }
 
