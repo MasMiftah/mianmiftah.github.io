@@ -18,7 +18,7 @@ function setUsersName() {
     setUserName();
   } else { 
     localStorage.setItem('name', myName);
-    myheading.textContent = 'Hey, ' + myName + ', Click the question mark to see the most popular destination our users have selected!';
+    myHeading.innerHTML = 'Hey, ' + myName + ', Click the question mark to see the most popular destination our users have selected!';
   }
 }
 
