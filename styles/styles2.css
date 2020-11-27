@@ -55,14 +55,10 @@ p {
 	font-size: 16px;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-
-* {
-	box-sizing: border-box;
-}
-
-
+/* Author: Charles */
 h2 {
 	font-size: 14px;
 	margin: 0;
+	.head{
+		float: right;
 }
