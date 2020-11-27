@@ -8,3 +8,5 @@ function updateCounter(){
 updateCounter()
 
 counterElement = document.getElementsByClassName('count')[0];
+
+//Author: Charles
