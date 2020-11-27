@@ -59,6 +59,5 @@ p {
 h2 {
 	font-size: 14px;
 	margin: 0;
-	.head{
-		float: right;
+	padding-left: 100px;
 }
