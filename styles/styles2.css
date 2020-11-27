@@ -60,6 +60,5 @@ h2 {
 	font-size: 14px;
 	margin: 0;
 	position: relative;
-	right: 650px;
-	bottom: 500px;
+	left: -650px;
 }
