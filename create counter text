@@ -1,10 +1,18 @@
 https://api.countapi.xyz/create?namespace=travel&key=social&value=0
 //create namespace
 
-
+Second page counter
 https://api.countapi.xyz/get/travel/social
 get the value alone
 
 https://api.countapi.xyz/update/travel/social/?amount=1
 
-Second page counter
+
+
+First page counter
+https://api.countapi.xyz/create?namespace=main&key=mainpageone&value=0
+
+https://api.countapi.xyz/get/main/mainpageone
+
+https://api.countapi.xyz/update/main/mainpageone/?amount=1
+
