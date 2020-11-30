@@ -17,7 +17,7 @@ p, li {
 
 
 html {
-  background: url(images/nature.jpg);
+  background: url("https://wallpaperset.com/w/full/8/4/0/153114.jpg");
   text-align: center;
   background-color: #cccccc;
 }
@@ -36,6 +36,7 @@ h2 {
 	position: relative;
 	left: 360px;
 	top: 150px;
+	color: white;
 }
 
 h1 {
@@ -64,6 +65,29 @@ p {
 	font-size: 16px;
 }
 
+.btn-group button {
+  background-color: #4CAF50;
+  border: 1px solid green;
+  color: white; 
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 30%;
+  display: block;
+  position: relative;
+  left: 215px;
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none;
+}
+
+.btn-group a:link {
+  text-decoration: none;
+}
+
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
 
 
 
