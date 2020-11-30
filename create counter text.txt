@@ -1,0 +1,44 @@
+Second page counter
+https://api.countapi.xyz/create?namespace=travel&key=social&value=0
+//create namespace
+
+https://api.countapi.xyz/get/travel/social
+get the value alone
+
+https://api.countapi.xyz/update/travel/social/?amount=1
+
+
+
+First page counter
+https://api.countapi.xyz/create?namespace=main&key=mainpageone&value=0
+
+https://api.countapi.xyz/get/main/mainpageone
+
+https://api.countapi.xyz/update/main/mainpageone/?amount=1
+
+
+Third page counter
+https://api.countapi.xyz/create?namespace=greatwall&key=china&value=0
+
+https://api.countapi.xyz/get/greatwall/china&value
+
+https://api.countapi.xyz/update/greatwall/china/?amount=1
+
+
+Fourth page counter
+https://api.countapi.xyz/create?namespace=colosseum&key=rome&value=0
+
+https://api.countapi.xyz/get/colosseum/rome&value
+
+https://api.countapi.xyz/update/colosseum/rome/?amount=1
+
+
+Fifth page counter
+https://api.countapi.xyz/create?namespace=machupicchu&key=peru&value=0
+
+https://api.countapi.xyz/get/machupicchu/peru&value
+
+https://api/countapi/xyz/update/machupicchu/peru/?amount=1
+
+
+Author: Charles

@@ -1,0 +1,93 @@
+
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background: url("https://wallpaperset.com/w/full/8/4/0/153114.jpg");
+  text-align: center;
+  background-color: #cccccc;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-image: url("https://wallpaperaccess.com/full/1397286.jpg");
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h2 {
+	font-size: 20px;
+	margin: 0;
+	position: relative;
+	left: 360px;
+	top: 150px;
+	color: white;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #FA00DF;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  color: black;
+}
+
+.button {
+	background-color: #4CAE40
+	border: none;
+	color: black;
+	padding: 12px 28px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.btn-group button {
+  background-color: #4CAF50;
+  border: 1px solid green;
+  color: white; 
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 30%;
+  display: block;
+  position: relative;
+  left: 215px;
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none;
+}
+
+.btn-group a:link {
+  text-decoration: none;
+}
+
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+
+
+
