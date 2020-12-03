@@ -38,7 +38,7 @@ https://api.countapi.xyz/create?namespace=machupicchu&key=peru&value=0
 
 https://api.countapi.xyz/get/machupicchu/peru&value
 
-https://api/countapi/xyz/update/machupicchu/peru/?amount=1
+https://api.countapi.xyz/update/machupicchu/peru/?amount=1
 
 
 Author: Charles
